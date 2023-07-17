@@ -18,5 +18,5 @@ function set_gradient(){
 
 // color2.addEventListener("input", set_gradient)
 
-// what's the difference between addEventListener() to oninput attribute on the input tag in HTML?
+// what's the difference between addEventListener() and oninput attribute on the input tag in HTML?
 // you can't add more events to the oninput attribute.
